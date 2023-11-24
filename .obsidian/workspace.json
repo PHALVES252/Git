@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "68b96a5f1c12282b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6231c1e8e2e42772",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7df6a67cf0c7840",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a3aa0c7b930c307",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a8cbb5154ab50d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92c809158b5cd847",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98ab80746697e5b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e8478f55e09cd03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44dc7db2aae6b9eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ad2f07a62af450a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "909d725997e68aa2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e361eb904a0df7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a265d818f5efc8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd3f478d9d384fc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "92c809158b5cd847",
+  "lastOpenFiles": [
+    "Pasted image 20231028104353.png",
+    "Issues.md",
+    "Introdução.md",
+    "Git reset.md",
+    "GIT na ide vscode.md",
+    "Git log.md",
+    "Git diff.md",
+    "Git branch.md",
+    "GIT  na interface de IDE.md",
+    "Deletando um branch.md",
+    "Configurando Git.md",
+    "Chave ssh.md",
+    "Terminologias Git.md",
+    "Push no repositorio.md",
+    "Pull no repositorio.md",
+    "Pasted image 20231106124655.png"
+  ]
+}
