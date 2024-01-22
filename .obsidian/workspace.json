@@ -11,8 +11,12 @@
             "id": "e7df6a67cf0c7840",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "testando2/fefefefefe.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "testando2/fefefefefe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "testando2/fefefefefe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "testando2/fefefefefe.md"
+              }
             }
           }
         ]
@@ -138,12 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "92c809158b5cd847",
+  "active": "e7df6a67cf0c7840",
   "lastOpenFiles": [
-    "README.md",
-    "Pasted image 20231028104353.png",
-    "Issues.md",
     "Introdução.md",
+    "testando2/fefefefefe.md",
     "Git reset.md",
     "GIT na ide vscode.md",
     "Git log.md",
@@ -153,9 +159,13 @@
     "Deletando um branch.md",
     "Configurando Git.md",
     "Chave ssh.md",
-    "Terminologias Git.md",
-    "Push no repositorio.md",
+    "Issues.md",
+    "Pasted image 20231028104353.png",
+    "Pasted image 20231106124655.png",
     "Pull no repositorio.md",
-    "Pasted image 20231106124655.png"
+    "Push no repositorio.md",
+    "README.md",
+    "Terminologias Git.md",
+    "testando2"
   ]
 }
